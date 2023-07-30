@@ -102,9 +102,9 @@ button.existInv {
   padding: 10px 40px;
   border-radius: 30px;
   margin: 0 8px;
-  background-color: #d2cbcd;
-  border-color: #d2cbcd;
-  color: black;
+  background-color: white;
+  border-color: white;
+  color: red;
   text-transform: uppercase;
   font-size: 12px;
 }
