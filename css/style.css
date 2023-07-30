@@ -117,8 +117,3 @@ nav.navbar {
 .arrow {
   cursor: pointer;
 }
-@media only screen and (max-width: 992px) {
-  .container-fluid {
-    background: white;
-  }
-}
